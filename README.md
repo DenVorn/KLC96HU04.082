@@ -24,4 +24,4 @@ The USART pin that is located at the outside battery terminal is connected throu
 - 1x STM8L151K4T6
 - 3x S-8204B
 - 1x BQ27541
-- 1x ATMLH744  (Unknown contents)
+- 1x AT24C02  (Unknown contents)
