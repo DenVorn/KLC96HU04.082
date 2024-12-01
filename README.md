@@ -1,6 +1,6 @@
 #  KLC96HU04.082
 Dump of firmware and option-bytes from a STM8L151K4T6 on a KL96HU04A BMS mounted in a KLC96HU04.082 e-bike battery.
-The data was empty.
+The data was empty. Altough there is an eeprom present, the contents are provided in the 2DCM.bin file.
 
 ## EXTRA
 The small programming header is in the following pinout (from the side of the power-mosfets):
