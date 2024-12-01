@@ -10,3 +10,17 @@ The small programming header is in the following pinout (from the side of the po
 - Swim
 
 The USART pin that is located at the outside battery terminal is connected through series of resistors to the PC3 (USART TRANSMIT) on the MCU.
+
+### Parts (front)
+- 3x RFS3306 
+- 1x 12ah4
+- 2x IPD053N08N3
+- 2x SHARP PC817
+- 1x S-1142A
+- 3x UC3843
+
+### Parts (back)
+- 1x STM8L151K4T6
+- 3x S-8204B
+- 1x BQ27541
+- 1x ATMLH744  (Unknown contents)
