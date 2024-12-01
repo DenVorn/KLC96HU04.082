@@ -18,6 +18,7 @@ The USART pin that is located at the outside battery terminal is connected throu
 - 2x SHARP PC817
 - 1x S-1142A
 - 3x UC3843
+- 2x fuses (below power mosfets)
 
 ### Parts (back)
 - 1x STM8L151K4T6
