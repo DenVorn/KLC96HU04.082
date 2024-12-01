@@ -1,4 +1,4 @@
-# prot-inf
+#  KLC96HU04.082
 Dump of firmware and option-bytes from a STM8L151K4T6 on a KL96HU04A BMS mounted in a KLC96HU04.082 e-bike battery.
 The data was empty.
 
