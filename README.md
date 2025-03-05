@@ -1,4 +1,4 @@
-#  KLC96HU04.082
+#  KLC96HU04.082 - 36V 9.0 Ah 324 Wh
 Dump of firmware and option-bytes from a STM8L151K4T6 on a KL96HU04A BMS mounted in a KLC96HU04.082 e-bike battery.
 The data was empty. Although there is an eeprom present, the contents are provided in the 2DCM.bin file.
 
@@ -25,3 +25,6 @@ The USART pin that is located at the outside battery terminal is connected throu
 - 3x S-8204B
 - 1x BQ27541
 - 1x AT24C128C (2DCM B)
+
+### Cells
+- 40x Sanyo UR18650AA
